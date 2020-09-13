@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta charset="UTF-8">
+<title>title</title>
+<meta name="author" content="name">
+<meta name="description" content="description here">
+<meta name="keywords" content="keywords,here">
+<meta name="keywords" content="HTML,CSS,JavaScript">
+<link rel="stylesheet" href="stylesheet.css" type="text/css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<div class="box-area">
+<header>
+<div class="wrapper">
+<div class="logo">
+ <a href="#">Siphelo Mahote</a>
+</div>
+
+<nav>
+
+ <a href="#">Home</a>
+ 
+ <a href="#">Projects</a>
+  
+<a href="#">About</a>
+    
+ <a href="#">Contact</a>
+   
+</nav>
+</div>
+</header>
+
+<div class="banner-area"> 
+    <h3>My Portfolio</h3>
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
+ <section id="projects">
+  
+<div class="Projects">
+<div class="wrapper">
+<div class="all-projects">
+ <div class="project-items">
+ <h2 >Project 1</h2>
+ 
+<p>
+it is a long established <br>
+fact a reader will be distracted<br>
+by the raedable contant of a <br>
+page when looking at it layout<br>
+</p>
+
+  
+ <p>
+   <a href="/ Lorem Ipsum is that it has a more-or-less" >See More</a>
+  </p>
+  </div>
+  <div class="project-items">
+ <h2>Project 2</h2>
+ 
+ 
+<p>
+it is a long established <br>
+fact a reader will
+be distracted<br>
+by the raedable contant<br>
+ of a page when looking at it layout
+</p>
+
+<p>
+<a href="/ Lorem Ipsum is that it has a more-or-less">See More</a>
+</p>
+</div>
+<div class="project-items">
+ <h2>Project 3</h2>
+ 
+<p>
+
+it is a long established<br>
+ fact a reader will be distracted<br>
+by the raedable contant<br> 
+of a page when looking at it layout
+</p>
+
+<p>
+<a href="/ Lorem Ipsum is that it has a more-or-less" >See More</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+
+</section>
+
+<section id="About">
+<h1>About</h1>
+<img src="IMG-20200911-WA0055.jpg" width="200" height="200">
+ <p>
+  I'm Siphelo I live in Khayelitsha, I enjoy 
+  being around a computer i just like everything about 
+  computer,the love of computer began after i matriculated
+  and also i saw necessity of the skill. Naturally i'm just a simple genuine person who believes in 
+  hard work and success always kept an open mind to the finer things in life seeking for greener pastures.
+ </p>
+ 
+ 
+</section>
+ </d>
+</div>
+<section id="contact">
+  <div class="contact container">
+    <div><h1 class="section-title">Contact <span>info</span></h1></div>
+    <div class="contact-items">
+      <div class="contact-item">
+        
+
+<i class="fa fa-phone" style="font-size:48px;color:black"></i>
+<br>
+        <div class="contact-info">
+          <h1>Phone</h1>
+          <h2>062 372 6749</h2>
+          
+        </div>
+      </div>
+      <div class="contact-item">
+        <i class="fa fa-envelope" style="font-size:48px;color:black"></i>
+        
+        <div class="contact-info">
+          <h1>Email</h1>
+          <h2>Mahotesiphelo@gmail.com</h2>
+          
+        </div>
+      </div>
+      <div class="contact-item">
+        <i class='fas fa-map-pin' style='font-size:48px;color:black'></i>
+        <div class="contact-info">
+          <h1>Address</h1>
+          <address>
+<b>29 Ntsikizi street<br>
+Litha Park<br>
+Khayelitsha<br>
+7784<br></b>
+
+
+
+
+          </address>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+</body>
+
+
+</html>
